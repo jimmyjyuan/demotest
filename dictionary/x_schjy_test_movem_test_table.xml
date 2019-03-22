@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Test Table" max_length="40" name="x_schjy_test_movem_test_table" type="collection">
+        <element label="Column1" max_length="40" name="column1" type="string"/>
+        <element label="Column2" max_length="40" name="column2" type="string"/>
+    </element>
+</database>
